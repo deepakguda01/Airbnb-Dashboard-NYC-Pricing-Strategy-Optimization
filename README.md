@@ -82,8 +82,3 @@ The Tableau Dashboard provides the following views:
 - **Visualization File:** `.twbx` (Tableau Workbook)  
 
 ---
-
-## 📬 Contact  
-
-👩‍💻 **Nikki Rastogi**  
-📧 Email: [nikkirastogi1998@gmail.com](mailto:nikkirastogi1998@)
